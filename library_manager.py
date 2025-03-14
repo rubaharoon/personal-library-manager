@@ -94,6 +94,7 @@ st.markdown("""
         }
         .stButton>button:hover {
             background-color: #D81B60;
+            color: white;
         }
 
         /* Footer */
